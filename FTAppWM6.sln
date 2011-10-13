@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTAppWM6", "FTAppWM6\FTAppWM6.csproj", "{2CFE3B83-6069-4642-BF4E-2C800A60C84A}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "FTAppWM6CAB", "FTAppWM6CAB\FTAppWM6CAB.vddproj", "{8A26EEC8-69A9-43B0-B493-C597749A46C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFE3B83-6069-4642-BF4E-2C800A60C84A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8A26EEC8-69A9-43B0-B493-C597749A46C6}.Debug|Any CPU.ActiveCfg = Debug
+		{8A26EEC8-69A9-43B0-B493-C597749A46C6}.Release|Any CPU.ActiveCfg = Release
+		{8A26EEC8-69A9-43B0-B493-C597749A46C6}.Release|Any CPU.Build.0 = Release
+		{8A26EEC8-69A9-43B0-B493-C597749A46C6}.Release|Any CPU.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
